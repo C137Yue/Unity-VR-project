@@ -20,8 +20,8 @@ Keywords: Perspective-taking; Empathy; Pro-environmental Behavior; Virtual Reali
 | **Assets/** | `Various assets files` | Game assets including models, textures, scripts, etc. |
 | **Logs/** | `Various logs` | Various log files |
 | **Packages/** | `manifest.json` | Unity package management and dependencies |
-| ** /** | `packages-lock.json` | Lock file for package versions |
-| ** ProjectSettings/** | `Various .asset files` | Project-specific settings and configurations |
+| **/**  | `packages-lock.json` | Lock file for package versions |
+| **ProjectSettings/** | `Various .asset files` | Project-specific settings and configurations |
 | **UserSettings/** | `Various settings files` | User-specific Unity editor settings |
 | **Temp/** | `Various files` | Temporary files generated during Unity's operation |
 | **Library/** | `automatic generate after playing` | Unity-generated folder for cached data and project settings |

@@ -11,6 +11,7 @@ This repository provides a **Unity VR project demo** of a submission for the **C
 
 Despite longstanding efforts to promote pro-environmental behaviors, adoption remains challenged by knowledge gaps regarding behavioral outcomes and insufficient affective engagement. Visual perspective-taking in immersive contexts offers a promising solution by reducing psychological distance between self and environmental situations, suggested to promote understanding to action. This study aims to explore how animal perspective-taking experiences in immersive Virtual Reality (VR) contexts could influence pro-environmental attitudes and behaviors.↳
 Participants took the perspective of a deer, experiencing its daily life (wandering, foraging, social interactions) while witnessing environmental challenges i.e. forest fires and human rescue efforts. Building on our preliminary research, our ongoing work systematically examines the mechanisms through which perspective-taking and immersive experiences enhance embodiment and empathy, and how these interventions ultimately drive positive, sustainable attitude and behavior change. This dataset contains all elements of the Unity VR project designed for research on how animal perspective-taking might influence pro-environmental attitudes and behaviors.
+
 Keywords: Perspective-taking; Empathy; Pro-environmental Behavior; Virtual Reality; Animal
 
 
@@ -26,6 +27,8 @@ Keywords: Perspective-taking; Empathy; Pro-environmental Behavior; Virtual Reali
 | **ProjectSettings/** | `Various .asset files` | Project-specific settings and configurations |
 | **UserSettings/** | `Various settings files` | User-specific Unity editor settings |
 | **Temp/** | `Various files` | Temporary files generated during Unity's operation |
-| **Library/** | `automatic generate after playing` | Unity-generated folder for cached data and project settings |
+| **Library/** | `Automatic generate after playing` | Unity-generated folder for cached data and project settings |
+
+My project folder is too large for GitHub, please see the Release.
 
 

@@ -1,46 +1,26 @@
-# 🏆 Mini Example Submission  
+# 🏆 Unity VR Project Example Submission  
 
-This repository provides a **mini example** of a submission for the **Code Verification Competition** at the **University of Twente**.  
+This repository provides a **Unity VR project demo** of a submission for the **Code Verification Competition** at the **University of Twente**.  
 
 ## 📌 Research Information  
 
 - **📖 Research Project**  
-  - **Title**: *A Research of Boston Housing Price*  
-  - **👨‍🔬 Authors**: Jo Doe (ORCID: [0000-0002-1825-XXXX](https://orcid.org/0000-0002-1825-XXXX))  
-  - **🏛️ Affiliation**: University of Twente, Faculty, Department  
-  - **📄 Article or Pre-print DOI**: [https://doi.org/10.1000/182](https://doi.org/10.1000/182) (If you have)   
-
-## 📂 Recommended Folder Structure  
+  - **Title**: *How Animal Perspective-Taking Influences Human Pro-Environmental Attitudes and Behaviors*  
+  - **👨‍🔬 Authors**: Yue Li (ORCID: [0009-0001-2375-5997](https://orcid.org/0009-0001-2375-5997))  
+  - **🏛️ Affiliation**: University of Twente, Faculty of Behavioural, Management and Social Sciences, Learning, Data-Analytics, Technology (BMS-LDT)  
+ 
+## 📂 Folder Structure  
 
 | 📁 Folder | 📄 File | 📝 Description |
 |-----------|--------|---------------|
-| **Data/** | `boston_housing.csv` | Input data |
-| **Code/** | `Mini_example_submission.ipynb` | Jupyter Notebook containing the code to generate output |
-| **Result/** | `output.docx` | Research output of the regression analysis |
+| **Animations/** | `Animations for the interactions` | Multiple animations and animation controllers for avators|
+| **Assets/** | `Various assets files` | Game assets including models, textures, scripts, etc. |
+| **Logs/** | `Various logs` | Various log files |
+| **Packages/** | `manifest.json` | Unity package management and dependencies |
+| ** /** | `packages-lock.json` | Lock file for package versions |
+| ** ProjectSettings/** | `Various .asset files` | Project-specific settings and configurations |
+| **UserSettings/** | `Various settings files` | User-specific Unity editor settings |
+| **Temp/** | `Various files` | Temporary files generated during Unity's operation |
+| **Library/** | `automatic generate after playing` | Unity-generated folder for cached data and project settings |
 
-🚀 *This structured submission ensures clarity and reproducibility!*  
 
-
-## 🚀 Interested in Advancing Reproducibility?  
-
-Ensure your research is **transparent and verifiable** with **CODECHECK**! 🔍  
-
-🔗 **Explore CODECHECK**: [CODECHECK – ITC Open Science](https://www.itc.nl/research/way-of-working/open-science/codecheck/)  
-
-✅ The following example showcases a **certified reproducible article** that follows CODECHECK procedures:  
-
-- 🏅 **CODECHECK Certificate**: [2024-024](https://codecheck.org.uk/register/certs/2024-024/)  
-
----
-
-## 🔬 Want to Make Your Research Code FAIR?  
-
-Make your research code **Findable, Accessible, Interoperable, and Reusable (FAIR)**! 🌍  
-
-💡 When you write code to answer research questions, you are **developing research software**—so make it **FAIR**.  
-
-🔗 **Learn about FAIR4RS**: [FAIR Software](https://fair-software.nl/)  
-
----
-
-🚀 *Adopt these open science practices to enhance your research impact!*  

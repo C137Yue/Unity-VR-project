@@ -1,6 +1,9 @@
 # 🏆 Unity VR Project Example Submission  
 
 This repository provides a **Unity VR project demo** of a submission for the **Code Verification Competition** at the **University of Twente**.  
+Despite longstanding efforts to promote pro-environmental behaviors, adoption remains challenged by knowledge gaps regarding behavioral outcomes and insufficient affective engagement. Visual perspective-taking in immersive contexts offers a promising solution by reducing psychological distance between self and environmental situations, suggested to promote understanding to action. This study aims to explore how animal perspective-taking experiences in immersive Virtual Reality (VR) contexts could influence pro-environmental attitudes and behaviors.↳
+Participants took the perspective of a deer, experiencing its daily life (wandering, foraging, social interactions) while witnessing environmental challenges i.e. forest fires and human rescue efforts. Building on our preliminary research, our ongoing work systematically examines the mechanisms through which perspective-taking and immersive experiences enhance embodiment and empathy, and how these interventions ultimately drive positive, sustainable attitude and behavior change. 
+Keywords: Perspective-taking; Empathy; Pro-environmental Behavior; Virtual Reality; Animal
 
 ## 📌 Research Information  
 

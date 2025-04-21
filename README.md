@@ -29,6 +29,6 @@ Keywords: Perspective-taking; Empathy; Pro-environmental Behavior; Virtual Reali
 | **Temp/** | `Various files` | Temporary files generated during Unity's operation |
 | **Library/** | `Automatic generate after playing` | Unity-generated folder for cached data and project settings |
 
-My project folder is too large for GitHub, please see the Release.
+My project folder is too large for GitHub, please see the Releases.
 
 

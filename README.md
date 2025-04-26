@@ -23,7 +23,7 @@ Keywords: Perspective-taking; Empathy; Pro-environmental Behavior; Virtual Reali
 | **Assets/** | `Various assets files` | Game assets including models, textures, scripts, etc. |
 | **Logs/** | `Various logs` | Various log files |
 | **Packages/** | `manifest.json` | Unity package management and dependencies |
-| ** **  | `packages-lock.json` | Lock file for package versions |
+| ** **  | `packages-lock.json` | Lock file for package versions |Unity-VR-project
 | **ProjectSettings/** | `Various .asset files` | Project-specific settings and configurations |
 | **UserSettings/** | `Various settings files` | User-specific Unity editor settings |
 | **Temp/** | `Various files` | Temporary files generated during Unity's operation |
@@ -31,4 +31,13 @@ Keywords: Perspective-taking; Empathy; Pro-environmental Behavior; Virtual Reali
 
 My project folder is too large for GitHub, please see the Releases.
 
+
+## 📂 Wolkflow
+ - 1. download the "How Animal Perspective-Taking Influences Human Pro-Environmental Attitudes and Behaviors.zip" in releases
+ - 2. extract the zip file
+   3. download and install Unity Hub (https://unity.com/download)
+   4. download Unity 2022.3.5f1 Version (https://unity.com/releases/editor/archive)
+   5. In Unity Hub, Add project from disk from "Unity-VR-project\TerrainTest"[image](https://github.com/user-attachments/assets/9b732090-6461-45c3-8377-4d6286f3480b)
+   6. Open the "10.10AllinOne" in Unity from folader "TerrainTest\Assets\Scenes"
+   7. Now you can use the VR Unity game project. Click "Play", the game will be present automatically.
 

@@ -33,14 +33,17 @@ My project folder is too large for GitHub, please see the Releases.
 
 
 ## 📂 Wolkflow
- - 1. download the "How Animal Perspective-Taking Influences Human Pro-Environmental Attitudes and Behaviors.zip" in releases
+ - 1. download the "How Animal Perspective-Taking Influences Human Pro-Environmental Attitudes and Behaviors.zip" from (https://zenodo.org/records/15323067?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImY4NTFkYTYwLTIxNGEtNGVkYS05MjY1LWE4OWY5YTUzZWUwNiIsImRhdGEiOnt9LCJyYW5kb20iOiJmYzkzNTQxYzk2YTkwMjI5MjQ4MTNlYzJiOTM4MzZkNSJ9.qdEXEkrnKQ7EVm3dBBltCz94Lh6CUmkTLKDy4ZR1ObbBvlxMULUwc2FXKkZa2VT21AB8lrPZ8BDnqnYlH4BsKg)
  - 2. extract the zip file
    3. download and install Unity Hub (https://unity.com/download)
    4. download Unity 2022.3.5f1 Version (https://unity.com/releases/editor/archive)
    5. In Unity Hub, Add project from disk from "Unity-VR-project\TerrainTest"[image](https://github.com/user-attachments/assets/9b732090-6461-45c3-8377-4d6286f3480b)
-   6. Open the "10.10AllinOne" in Unity from folader "TerrainTest\Assets\Scenes" ![image](https://github.com/user-attachments/assets/bdbac3ea-657a-4cee-93a1-7e36c28d23f6)
+   6. Open the "S2Fire" in Unity from folader "TerrainTest\Assets\Scenes" ![image](![Screenshot 2025-05-02 124101](https://github.com/user-attachments/assets/a9f65f27-5ac2-44fa-be34-46e261d5be6a)
+)
    7. Now you can use the VR Unity game project. Click "Play", the game will be present automatically.![Screenshot 2025-04-26 133016](https://github.com/user-attachments/assets/ddc209c8-905b-4836-8d28-1f61bd3a73ec)
-   8. ![image](https://github.com/user-attachments/assets/85941601-67b1-4bc0-8480-61d13d51d4a2)
+   8. ![image](https://github.com/user-attachments/assets/85941601-67b1-4bc0-8480-61d13d51d4a2)![Uploading Screenshot 2025-05-02 124101.png…](![Uploading Screenshot 2025-05-02 124101.png…]()
+)
+
    9. 9. If you successfully connect your Meta Quest Series headset (Meta Quest Pro/2 etc.) to your computer, the scene will play in the VR headset through the computer link in Unity without requiring additional adjustments. (tutorial for Meta Quest: https://www.meta.com/en-gb/help/quest/1517439565442928/?srsltid=AfmBOop-g6ELD_29scK29iRqPmRQob26kryo1MCHKm057IkOfIVm8QJM)
 
 
